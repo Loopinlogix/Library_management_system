@@ -1,2 +1,2 @@
-# Library_management_system
+# Library_management
 Lesson 3 Assignment
